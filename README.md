@@ -1,3 +1,6 @@
+copyright 2021 by Cheikh Tidiane Diop ISep DD
+
+
 # Project Attendance using Outside in TDD and Django
 
 This project try to save the attendance of a group of students registered in courses.
@@ -25,6 +28,9 @@ you want to use in production.
 $ pip install -r requirements.txt
 $ bower install
 ```
+
+contact me ctd@moore.sn
+or c.diop@isepdiamniadio.edu.sn
 
 # License
 
